@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "url": "https://github.com/annaalmasyan2-glitch/esp32-ota-demo/blob/main/firmware.bin",
+  "url": "https://raw.githubusercontent.com/annaalmasyan2-glitch/esp32-ota-demo/main/firmware.bin",
    "allowed": [
     "C8:F0:9E:F4:31:9C"
   ]
