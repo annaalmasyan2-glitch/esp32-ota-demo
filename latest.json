@@ -1,4 +1,4 @@
 {
   "version": "1.0.1",
-  "bin": "https://raw.githubusercontent.com/annaalmasyan2-glitch/esp32-ota-demo/main/firmware101.11.09.bin",
+  "url": "https://raw.githubusercontent.com/annaalmasyan2-glitch/esp32-ota-demo/main/firmware101.11.09.bin",
 }
