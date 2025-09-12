@@ -1,4 +1,4 @@
 {
   "version": "2.0.0",
-  "url": "https://raw.githubusercontent.com/annaalmasyan2-glitch/esp32-ota-demo/main/12091.bin",
+  "bin": "https://raw.githubusercontent.com/annaalmasyan2-glitch/esp32-ota-demo/main/12091.bin",
 }
